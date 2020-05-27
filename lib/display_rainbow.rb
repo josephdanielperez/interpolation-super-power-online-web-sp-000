@@ -7,8 +7,8 @@ B = "blue"
 I = "indigo"
 V = "violet"
 
-def display_rainbow(color)
+def display_rainbow(color="red, orange, yellow, green, blue, indigo, violet")
   puts "#{color[R]}, #{color[O]}, #{color[Y]}, #{color[G]}, #{color[B]}, #{color[I]}, #{color[V]}"
 end
 
-display_rainbow("red")
+display_rainbow
