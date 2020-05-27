@@ -1,11 +1,11 @@
 # Write your #display_rainbow method here
-r = "red"
-o = "orange"
-y = "yellow"
-g = "green"
-b = "blue"
-i = "indigo"
-v = "violet"
+R = "red"
+O = "orange"
+Y = "yellow"
+G = "green"
+B = "blue"
+I = "indigo"
+V = "violet"
 
 def display_rainbow(color)
   puts "#{color[R]}, #{color[O]}, #{color[Y]}, #{color[G]}, #{color[B]}, #{color[I]}, #{color[V]}"
