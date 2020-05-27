@@ -9,7 +9,7 @@ i = "indigo"
 v = "violet"
 
 def display_rainbow(color)
-  puts "#{color[red]}, #{color[orange]}, #{color[yellow]}, #{color[green]}, #{color[blue]}, #{color[indigo]}, #{color[violet]}"
+  puts "#{color[r]}, #{color[o]}, #{color[y]}, #{color[g]}, #{color[b]}, #{color[i]}, #{color[v]}"
 end
 
 display_rainbow("color")
