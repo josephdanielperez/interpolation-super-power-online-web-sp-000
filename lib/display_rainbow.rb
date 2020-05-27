@@ -1,5 +1,4 @@
 # Write your #display_rainbow method here
-color = ["r", "o", "y", "g", "b", "i", "v"]
 r = "red"
 o = "orange"
 y = "yellow"
